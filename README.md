@@ -12,7 +12,7 @@ This repository contains a collection of useful PHP snippets and projects for de
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/php-snippets-and-projects.git
+    git clone https://github.com/hasnainjanjua/php-snippets-and-projects
     ```
 
 2. Navigate to the desired directory and use the code snippets in your project.
